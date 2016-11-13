@@ -1,0 +1,6 @@
+c:\users\masha\documents\visual studio 2015\Projects\RudTask1\RudTask1\bin\Debug\RudTask1.exe.config
+c:\users\masha\documents\visual studio 2015\Projects\RudTask1\RudTask1\obj\Debug\RudTask1.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2015\Projects\RudTask1\RudTask1\bin\Debug\RudTask1.exe
+c:\users\masha\documents\visual studio 2015\Projects\RudTask1\RudTask1\bin\Debug\RudTask1.pdb
+c:\users\masha\documents\visual studio 2015\Projects\RudTask1\RudTask1\obj\Debug\RudTask1.exe
+c:\users\masha\documents\visual studio 2015\Projects\RudTask1\RudTask1\obj\Debug\RudTask1.pdb
