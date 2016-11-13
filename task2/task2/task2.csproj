@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DC5722D8-923A-4677-9F7B-A1F7DBF25A85}</ProjectGuid>
+    <ProjectGuid>{C66E80C4-34D5-45E1-A004-E28E33B194A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RudTask2_2</RootNamespace>
-    <AssemblyName>RudTask2_2</AssemblyName>
+    <RootNamespace>task2</RootNamespace>
+    <AssemblyName>task2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RudTask2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
