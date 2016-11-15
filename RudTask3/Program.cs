@@ -3,16 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/// <summary>
+/// Sorry no comments this time
+/// </summary>
 namespace RudTask3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int MaxArraySize = 2147483647;                                                           
-            int ArraySize = GetUserArraySize(MaxArraySize);
+            int MaxArraySize = 2147483647;
             int[] UserArray;
+            int ArraySize = GetUserArraySize(MaxArraySize);
             FillUserArray(ArraySize, out UserArray);
             PrintMin(UserArray);
             PrintMax(ref UserArray);
@@ -58,6 +60,5 @@ namespace RudTask3
         {
             Console.WriteLine("Max value in your array is " + matrix.Max());
         }
-
     }
 }
