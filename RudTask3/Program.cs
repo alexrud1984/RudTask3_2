@@ -12,7 +12,7 @@ namespace RudTask3
     {
         static void Main(string[] args)
         {
-            int MaxArraySize = 2147483647;
+            byte MaxArraySize = 255;
             int[] UserArray;
             int ArraySize = GetUserArraySize(MaxArraySize);
             FillUserArray(ArraySize, out UserArray);
@@ -21,7 +21,7 @@ namespace RudTask3
             Console.ReadKey();
         }
 
-        static int GetUserArraySize(int max)
+        static int GetUserArraySize(byte max)
         {
             int size = 0;
             do

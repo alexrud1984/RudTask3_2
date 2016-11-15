@@ -4,3 +4,9 @@ D:\Projects\RudTask3\RudTask3\bin\Debug\RudTask3.pdb
 D:\Projects\RudTask3\RudTask3\obj\Debug\RudTask3.csprojResolveAssemblyReference.cache
 D:\Projects\RudTask3\RudTask3\obj\Debug\RudTask3.exe
 D:\Projects\RudTask3\RudTask3\obj\Debug\RudTask3.pdb
+D:\Projects\RudTask3\bin\Debug\RudTask3.exe.config
+D:\Projects\RudTask3\obj\Debug\RudTask3.exe
+D:\Projects\RudTask3\obj\Debug\RudTask3.pdb
+D:\Projects\RudTask3\bin\Debug\RudTask3.exe
+D:\Projects\RudTask3\bin\Debug\RudTask3.pdb
+D:\Projects\RudTask3\obj\Debug\RudTask3.csprojResolveAssemblyReference.cache
